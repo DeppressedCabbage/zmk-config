@@ -1,3 +1,4 @@
+NAME: zmk-keyboard-test
 build:
   settings:
     board_root: .
