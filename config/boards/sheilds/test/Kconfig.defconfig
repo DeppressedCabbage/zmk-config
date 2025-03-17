@@ -1,7 +1,7 @@
-if SHIELD_TEST
+if SHIELD_HUMMINGBIRD
 
 # Name must be less than 16 characters long!
 config ZMK_KEYBOARD_NAME
-    default "test"
+    default "hummingbird"
 
 endif
